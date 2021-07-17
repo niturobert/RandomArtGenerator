@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RandomArtGenerator", "RandomArtGenerator\RandomArtGenerator.pyproj", "{69075250-A950-4FCE-9E6B-FDE3D7A6B7E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69075250-A950-4FCE-9E6B-FDE3D7A6B7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69075250-A950-4FCE-9E6B-FDE3D7A6B7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2FF28E2-BE03-4BD7-A265-40CCA8AECB48}
+	EndGlobalSection
+EndGlobal
